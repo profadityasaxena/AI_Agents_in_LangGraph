@@ -2,6 +2,14 @@
 
 This project demonstrates the creation of an AI agent using **LangGraph** and the **ReAct Pattern**. The goal is to build a robust and interactive AI system capable of reasoning and acting based on user inputs.
 
+## REACT: Synergizing Reasoning and Acting in Language Models
+
+**Paper Title:** *REACT: Synergizing Reasoning and Acting in Language Models*  
+**Focus:** Combines language model reasoning capabilities with real-time action-taking (e.g., tool use, external environments).  
+**Keywords:** Language Models, Reasoning, Tool Use, Agents, REACT, LLMs, Decision-Making
+
+> A framework that enables language models not just to generate text, but also to interact with tools and environments—merging logical reasoning with real-world execution.
+
 ## Features
 
 - **LangGraph Integration**: Utilize LangGraph for managing complex workflows and dependencies.
