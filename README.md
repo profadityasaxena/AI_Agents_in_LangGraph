@@ -27,6 +27,28 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
+## Agents
+### Agent 1: Custom Agent from Scratch
+
+**Description:**  
+Agent 1 is a fully custom-built agent designed from the ground up. It leverages the core principles of the ReAct Pattern and integrates seamlessly with LangGraph to handle complex workflows. This agent serves as a foundational example for creating bespoke AI agents tailored to specific use cases.
+
+**Key Features:**  
+- **Custom Logic:** Implements unique reasoning and acting capabilities to address specialized tasks.  
+- **LangGraph Integration:** Utilizes LangGraph nodes and edges to define workflows and dependencies.  
+- **Extensibility:** Designed to be modular, allowing for easy addition of new tools or functionalities.  
+- **Interactive Interface:** Provides a user-friendly interface for real-time interaction and feedback.
+
+**Use Case Example:**  
+Agent 1 can be configured to act as a virtual assistant, capable of scheduling tasks, retrieving information, and interacting with external APIs to perform actions based on user inputs.
+
+**Implementation Details:**  
+- **Reasoning:** Uses LangGraph to model decision-making processes.  
+- **Acting:** Executes actions by interfacing with external tools and APIs.  
+- **Feedback Loop:** Continuously refines its behavior based on user feedback and task outcomes.
+
+This agent serves as a starting point for building more advanced agents in the project.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
